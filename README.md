@@ -24,5 +24,7 @@ Follow me on [![Twitter][1.2]][1], or <a href="https://www.linkedin.com/in/leon-
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=750075)
 ![](https://img.shields.io/badge/VM-VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=750075)
 
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonlit&show_icons=true&theme=radical&hide_border=true&count_private=true)
