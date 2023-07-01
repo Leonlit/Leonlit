@@ -2,12 +2,21 @@
 
 # Hello There 
 
-My name is leonlit, it's a nickname of course. I create software, websites and applications. Both terminal and GUI. Currently in my final year of my Computer Science Degree, majoring in network security. For more info, visits my [portfolio website](https://leonlit.github.io)
+My name is leonlit, it's a nickname of course. I create software, websites and applications. Both terminal and GUI. 
+I'm currently working as a Cyber Security engineer in one of my country's local Cyber Security firm. 
+<br><br>
+You could see some of my side projects at my [portfolio website](https://leonlit.github.io), I have not updated it yet, but that will change very soon.
+<br><br>
+Beside programming, I play some CTF on TryHackMe and HackTheBox. I'm more of a THM user then a HTB user, though I try to do some of the challenges in HTB to improve my skills.
+
+**Currently building a full stack web app about music streaming using Express & MongoDB.**
 
 Follow me on [![Twitter][1.2]][1], or <a href="https://www.linkedin.com/in/leon-lit-152480142/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="18px" height="18px"></a>
 
 [1.2]: https://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: https://twitter.com/leonlit
+
+ <img src="https://tryhackme-badges.s3.amazonaws.com/leonlit.png" alt="TryHackMe">
 
 <br>
 <br>
@@ -26,8 +35,6 @@ Follow me on [![Twitter][1.2]][1], or <a href="https://www.linkedin.com/in/leon-
 
 <br>
 <br>
-
- <img src="https://tryhackme-badges.s3.amazonaws.com/leonlit.png" alt="TryHackMe">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonlit&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
