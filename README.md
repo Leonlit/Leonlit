@@ -15,8 +15,9 @@ Follow me on [![Twitter][1.2]][1], or <a href="https://www.linkedin.com/in/leon-
 
 [1.2]: https://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1]: https://twitter.com/leonlit
+<br>
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/leonlit.png" alt="TryHackMe">
+![TryHackMe ranking](assets/leonlit.png)
 
 <br>
 <br>
