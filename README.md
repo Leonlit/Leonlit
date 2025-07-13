@@ -3,7 +3,7 @@
 # Hello There 
 
 My name is leonlit, it's a nickname of course. I create software, websites and applications. Both terminal and GUI. 
-I'm currently working as a Cyber Security engineer in one of my country's local Cyber Security firm. 
+I'm currently working as a Cyber Security Engineer in a local Cyber Security firm. 
 <br><br>
 You could see some of my side projects at my [portfolio website](https://leonlit.com)
 <br><br>
