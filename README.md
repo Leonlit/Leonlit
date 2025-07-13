@@ -9,7 +9,7 @@ You could see some of my side projects at my [portfolio website](https://leonlit
 <br><br>
 Beside programming, I play some CTF on TryHackMe and HackTheBox. I'm more of a THM user then a HTB user, though I try to do some of the challenges in HTB to improve my skills.
 
-**Currently building a full stack web app about music streaming using Express & MongoDB.**
+**Currently building [Music Viz](https://leonlit.com/projects/music-viz/) as a side project.**
 
 Follow me on [![Twitter][1.2]][1], or <a href="https://www.linkedin.com/in/leon-lit-152480142/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="18px" height="18px"></a>
 
