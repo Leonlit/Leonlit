@@ -30,7 +30,6 @@ Beside programming, I play some CTF on TryHackMe and HackTheBox. I'm more of a T
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=750075)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=750075)
 ![](https://img.shields.io/badge/VM-VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=750075)
-![](https://img.shields.io/badge/VM-VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=750075)
 ![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=750075)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=750075)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=750075)
